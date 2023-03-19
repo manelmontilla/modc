@@ -6,7 +6,8 @@ import (
 
 const modName = "github.com/manelmontilla/modc"
 
-// CallMeMaybe Hey, I just met you, and this is crazy.But here's my number
+// CallMeMaybe Hey, I just met you, and this is crazy.But here's my number so
+// call me, maybe.
 func CallMeMaybe() string {
 	v, _ := debug.ReadBuildInfo()
 	version := "unknown"
